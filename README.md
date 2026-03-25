@@ -42,6 +42,7 @@ I specialize in collecting, cleaning, and analyzing data to generate meaningful 
 
 ### Pandemic Pulse: Interactive COVID-19 Data Insights
 Developed an end-to-end interactive analytics solution that transformed raw healthcare data into actionable insights using **Excel and Power BI**, improving reporting efficiency for global pandemic trend monitoring.
+Link To Dashboard:- https://drive.google.com/file/d/1FWJzgQwRJLCk1kMmarrJzVIGInYJPl5q/view?usp=sharing
 
 ### Bookstore Sales and Ratings Analysis
 Performed advanced **SQL analysis** using joins, subqueries, and window functions to identify the **top 15% high-margin genres**, helping improve inventory turnover and sales performance.
