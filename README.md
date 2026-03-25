@@ -48,6 +48,7 @@ Performed advanced **SQL analysis** using joins, subqueries, and window function
 
 ### Employee Trends Dashboard
 Created an interactive **Tableau dashboard** using **LOD expressions and parameters** to analyze employee headcount growth and demographic trends across departments.
+Link To Dashboard:- https://public.tableau.com/views/IndiaSalesPerfomanceDashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ### Netflix Customer Segmentation (EDA)
 Conducted **Exploratory Data Analysis and customer segmentation** using **Python (Pandas, Matplotlib, Scikit-Learn)** to identify subscriber clusters and support personalized content recommendations.
